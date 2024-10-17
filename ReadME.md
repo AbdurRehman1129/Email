@@ -36,7 +36,7 @@ This Python script automates sending emails to multiple recipients. It allows yo
    Download the repository from Codeberg and navigate into the cloned directory.
 
    ```bash
-   git clone https://codeberg.org/AbdurRehman1/Email.git
+   git clone https://github.com/AbdurRehman1129/Email.git
    ```
 
    ```bash
@@ -96,7 +96,7 @@ This Python script automates sending emails to multiple recipients. It allows yo
    Open Command Prompt and download the repository from Codeberg.
 
    ```cmd
-   git clone https://codeberg.org/AbdurRehman1/Email.git
+   git clone https://github.com/AbdurRehman1129/Email
    ```
 
    ```cmd
